@@ -9,7 +9,7 @@ import pandas as pd
 #from dotenv import load_dotenv
 import streamlit as st
 import argparse
-from tabulate import tabulate
+#from tabulate import tabulate
 
 # Optional LLM providers
 # OpenAI (native)
@@ -382,4 +382,5 @@ if __name__ == "__main__":
         main_streamlit()
     else:
         main_cli()
+
 
