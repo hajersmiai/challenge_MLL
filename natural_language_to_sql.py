@@ -6,7 +6,7 @@ from dataclasses import dataclass
 from typing import List, Tuple, Optional
 from pathlib import Path
 import pandas as pd
-from dotenv import load_dotenv
+#from dotenv import load_dotenv
 import streamlit as st
 import argparse
 from tabulate import tabulate
@@ -382,3 +382,4 @@ if __name__ == "__main__":
         main_streamlit()
     else:
         main_cli()
+
