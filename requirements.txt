@@ -10,3 +10,4 @@ streamlit
 argparse
 asyncio
 requests
+dotenv
