@@ -6,7 +6,6 @@ dataclasses
 typing
 pathlib
 pandas
-dotenv 
 streamlit
 argparse
 tabulate
