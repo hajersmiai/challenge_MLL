@@ -8,6 +8,5 @@ pathlib
 pandas
 streamlit
 argparse
-tabulate
 asyncio
 requests
